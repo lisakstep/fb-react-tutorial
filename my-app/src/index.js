@@ -106,6 +106,8 @@ class Game extends React.Component {
         }
 
         return (
+            <h1>React Tutorial</h1>
+            <h2>May 8, 2019</h2>
             <div className="game">
                 <div className="game-board">
                     <Board 
